@@ -1,3 +1,3 @@
 # references
 
-* [bash](bash/README.md)
+* [bash](bash)
